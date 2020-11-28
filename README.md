@@ -1,10 +1,11 @@
-### Hi there 👋, Mi Name Is Asbel Jhonatan Apaza
+### Hi there 👋, my Name Is Asbel Jhonatan Apaza
 #### I am appacionate of the programming and learning development frontend
 ![I am appacionate of the programming and learning development frontend](https://github.com/jasbel/jasbel/blob/master/Brothers.png)
 
-Soy una persona que me gusta aprender dia a diam poco a poco.  Estoy agradecido con Dios por darme otra oportunidad mas que me dio para seguir viviendo. Realmente me encanta de que aprendo mas sobre desarrollo web
+Soy una persona que me gusta aprender dia a diam poco a poco.  
+Estoy agradecido con Dios por darme otra oportunidad mas que me dio para seguir viviendo. Realmente me encanta de que aprendo mas sobre desarrollo web
 
-Skills: JS / jQUERY / HTML / PUG / CSS / SASS / GULP / WORDPRESS
+Skills: JS / jQUERY / HTML / PUG / CSS / SASS / GULP / WORDPRESS / Reactjs
 
 - 🔭 I’m currently working on Develoment Frontend 
 - 🌱 I’m currently learning JS vanila, React, Web design 
