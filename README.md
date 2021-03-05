@@ -1,6 +1,6 @@
 ### Hi there 👋, my Name Is Asbel Jhonatan Apaza
 #### I am appacionate of the programming and learning development frontend
-![I am appacionate of the programming and learning development frontend](https://github.com/jasbel/jasbel/blob/master/Brothers.png)
+![I am appacionate of the programming and learning development frontend](https://media-exp1.licdn.com/dms/image/C4E16AQF3UjTJQyj-Kw/profile-displaybackgroundimage-shrink_200_800/0/1614583250710?e=1620259200&v=beta&t=jpZs-SZSQdIJTMne2Liis8iCs-ul6JbfKTPd6bx0HHM)
 
 Soy una persona que me gusta aprender dia a diam poco a poco.  
 Estoy agradecido con Dios por darme otra oportunidad mas que me dio para seguir viviendo. Realmente me encanta de que aprendo mas sobre desarrollo web
