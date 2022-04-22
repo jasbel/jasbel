@@ -17,13 +17,12 @@ Skills: JS / jQUERY / HTML / PUG / CSS / SASS / GULP / WORDPRESS / Reactjs
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasbel&show_icons=true&locale=en&layout=compact" alt="jasbel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasbel&show_icons=true&locale=en" alt="jasbel" /></p>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasbel&show_icons=true)  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasbel&" alt="jasbel" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/jasbel)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasbel&show_icons=true&locale=en" alt="jasbel" /></p>
 
 <!--
 **jasbel/jasbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
