@@ -15,9 +15,15 @@ Skills: JS / jQUERY / HTML / PUG / CSS / SASS / GULP / WORDPRESS / Reactjs
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jasbel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asbel-apaza-romero-4a2aa01a1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/asbel.apaza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/#/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/jasbel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/9886271/asbel777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/#)  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasbel&show_icons=true&locale=en&layout=compact" alt="jasbel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasbel&show_icons=true&locale=en" alt="jasbel" /></p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasbel&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/jasbel)  
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasbel&show_icons=true&locale=en" alt="jasbel" /></p>
 
 <!--
 **jasbel/jasbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
