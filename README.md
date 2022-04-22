@@ -5,7 +5,7 @@
 Soy una persona que me gusta aprender dia a diam poco a poco.  
 Estoy agradecido con Dios por darme otra oportunidad mas que me dio para seguir viviendo. Realmente me encanta de que aprendo mas sobre desarrollo web
 
-Skills: JS / jQUERY / HTML / PUG / CSS / SASS / GULP / WORDPRESS / Reactjs
+Skills: JS / jQUERY / HTML5 / PUG / CSS3 / SASS / GULP / WORDPRESS / Reactjs / Node / Expressjs / Nestjs / Redux / React Native / Nextjs
 
 - 🔭 I’m currently working on Develoment Frontend 
 - 🌱 I’m currently learning JS vanila, React, Web design 
